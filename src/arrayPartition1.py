@@ -5,7 +5,5 @@ class Solution(object):
         :rtype: int
         """
 
-        # your solution here
-
         return sum(sorted(nums)[::2])
 
